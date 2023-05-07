@@ -1,1 +1,4 @@
 
+db:
+  username: dataBaseUserName  
+  password: dataBasePassword
