@@ -1,4 +1,7 @@
+spring:
+  application:
+    name: config-default
 
-db:
-  username: dataBaseUserName  
-  password: dataBasePassword
+#db:
+#  username: dataBaseUserName  
+#  password: dataBasePassword
