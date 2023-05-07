@@ -5,4 +5,4 @@ eureka:
 
 job:
   monitoring:
-    cron: '*5*******?'
+    cron: '*1*******?'
